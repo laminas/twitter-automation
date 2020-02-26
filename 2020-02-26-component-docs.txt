@@ -1,0 +1,8 @@
+#IMAGE=logo-components-mvc.png
+
+Only want to read about the #Lamians components? Visit the components documentation!
+
+https://docs.laminas.dev/components/
+
+#php
+

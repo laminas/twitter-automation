@@ -1,4 +1,0 @@
-#IMAGE=logo.png
-Blogged:  Endings and Beginnings: Goodbye, and Please Welcome the Laminas Project! 
-
-http://dlvr.it/RNhKFz

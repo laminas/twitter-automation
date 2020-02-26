@@ -1,0 +1,5 @@
+#IMAGE=logo.png
+
+Join the #Laminas forums!
+
+https://discourse.laminas.dev

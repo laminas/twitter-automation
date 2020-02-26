@@ -1,0 +1,5 @@
+#IMAGE=slack.jpg
+
+Join the #Laminas Slack!
+
+https://laminas.dev/chat/

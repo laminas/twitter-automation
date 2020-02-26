@@ -1,5 +1,0 @@
-#IMAGE=logo.png
-
-Our API Tools website is now complete!
-
-http://bit.ly/30Qvz4e

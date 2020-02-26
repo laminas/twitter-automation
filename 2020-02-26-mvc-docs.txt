@@ -1,0 +1,7 @@
+#IMAGE=logo-components-mvc.png
+
+Want to read specifically about the #Laminas MVC? Visit the MVC documentation!
+
+https://docs.laminas.dev/mvc/
+
+#php
