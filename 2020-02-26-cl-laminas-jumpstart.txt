@@ -1,6 +1,0 @@
-#IMAGE=logo-components-mvc.png
-#IGNORE_AFTER=2020-03-05
-
-PHP Continuous Learning (@php_cl) has a #Laminas MVC JumpStart course with seats still open for 2020-03-05; find out more!
-
-https://php-cl.com/courses/scheduled/12
