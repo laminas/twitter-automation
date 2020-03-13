@@ -1,0 +1,4 @@
+#IMAGE=logo-components-mvc.png
+One our users, @pulenong, created a video detailing how to create a #Laminas MVC project:
+
+https://www.youtube.com/watch?v=J0v_VnBl4_0

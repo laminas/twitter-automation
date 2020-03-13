@@ -1,6 +1,0 @@
-#IMAGE=logo.png
-#IGNORE_AFTER=2020-03-18
-
-Frankfurt is hosting a #Laminas meetup on 2020-03-18! Find out more:
-
-https://www.meetup.com/de-DE/PHP-Laminas-Rhein-Main/events/268708442/
