@@ -1,0 +1,5 @@
+#IMAGE=community-bridge.png
+
+Has #Laminas or #Mezzio helped you create an application or deliver business value? If so, please consider giving back with a donation to the project!
+
+https://funding.communitybridge.org/projects/laminas-project

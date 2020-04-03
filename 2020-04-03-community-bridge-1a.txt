@@ -1,0 +1,5 @@
+#IMAGE=community-bridge.png
+
+Help fund Laminas! We are now on CommunityBridge, and hope to fund somebody part-time, as well as perform outreach.
+
+https://funding.communitybridge.org/projects/laminas-project
