@@ -1,4 +1,0 @@
-#IMAGE=logo.png
-Please Welcome the Laminas Project! 
-
-https://framework.zend.com/blog/2020-01-24-laminas-launch
